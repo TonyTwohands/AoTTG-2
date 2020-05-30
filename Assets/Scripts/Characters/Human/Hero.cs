@@ -14,6 +14,7 @@ public class Hero : Human
 
     private ArmatureData armatureData;
 
+    public EquipmentType equipmentType;
     public OdmgEquipment currentEquipment;
     public List<HeroSkill> Skills;
 
